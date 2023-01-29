@@ -39,5 +39,16 @@ Simply clone or download the project, run `run.py` file, make sure you've instal
 The output plots will show you the path and cities and average, best, worst fittness per generation.
 <br><br>
 ---
+#### Some Screenshots
+![img.png](img.png)
+With Population 200 and 1000 Generations
+
+![img_1.png](img_1.png)
+Same As Above
+
+![img_2.png](img_2.png)
+With Population 300 and 200 Generations
+<br><br><br><br>
+---
 #### Author
-- Esmail Mahjoor
+Best Regards, Esmail Mahjoor
